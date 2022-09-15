@@ -1,3 +1,5 @@
+#Talitha Najwa Afifah (220535603474)
+
 def greetings(bilang):
     bilang = bilang.strip().lower()
 
